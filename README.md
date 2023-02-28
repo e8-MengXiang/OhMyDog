@@ -1,2 +1,3 @@
-# OhMyDog
-oh my dog ！
+# Oh My Dog
+
+oh, my god！
